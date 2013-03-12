@@ -298,6 +298,7 @@ Wing, J.M. (2008) ‘Computational Thinking and Thinking about Thinking,’ Phil
 
 ##
 
+
  [1]: https://wiki.mozilla.org/Learning/WebLiteracyStandard
  [2]: mailto:doug%40mozillafoundation.org
  [3]: http://twitter.com/dajbelshaw
@@ -312,3 +313,5 @@ Wing, J.M. (2008) ‘Computational Thinking and Thinking about Thinking,’ Phil
  [12]: https://farm9.staticflickr.com/8221/8344676771_3af86475b0_z.jpg  
 
 [^2]: N.T. : el termino en ingles es badges, es importante tener esto en cuenta ya que en toda la documentación circula este termino
+
+esta es otra prueba de Alvar
