@@ -45,6 +45,8 @@ To help make the following a bit more tangible, let’s consider three scenarios
 	
 3.  Abdullah, 24, runs a small nonprofit start-up aimed at helping kids learn to code. He's a member of Hive London and is searching for activities to keep the kids who come along to his weekend workshops engaged. Abdullah creates a few projects that he can promote to a wider audience through the Mozilla Webmaker site.
 
+>Abdullah, de veinticuatro años, dirige un pequeño emprendimiento sin fines de lucro que tiene como objetivo ayudar a los niños a aprender a programar. Es miembro de Hive London y está buscando actividades para mantener “enganchados” a los chicos que asisten a sus talleres de fin de semana. Abdullah crea algunos proyectos que puede promover entre una audiencia más grande  por medio del sitio de Mozilla Webmaker
+
 What these three examples have in common is an individual with an interest, a practical need, and a desire to connect to others. We’ll return to Leo, Martha and Abdullah later to breathe life into some of the more abstract concepts in this white paper. 
 
 ## What are we talking about?
