@@ -15,11 +15,8 @@ $ cd rails_tutorial_translation ## entran el directorio de trabajo
 $ git checkout -b spanish ## crean la nueva rama
 $ git config branch.spanish.remote origin ## Configuran la rama
 $ git config branch.master.merge refs/heads/spanish ## Configuran la rama
-$ git push origin spanish # Publican - push - a la r
+$ git push origin spanish # Publican - push - a la rama
 ```
-
-
-**Note:** Do not give the Heroku URL to prospective readers. For each language, I will create a custom URL of the form <tt>spanish.railstutorial.org</tt> intended for distribution.
 
 ## Contributing to an existing translation
 
