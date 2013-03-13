@@ -33,7 +33,7 @@ $ git checkout espñol ## Eligen al rama para trabajar en ella
 Ahora pueden publicar sus traducciones usando `git push`:
 
 
-# Translating the book
+# Tranduciendo los papers
 
 La traducción la realizamos usando sintaxys MarkDown, en el directorio `weblitwiki` están los documentos fuentes para editar, vayan commiteando (commit) a medida que van traduciendo. Esto prepara los archivos para ser publicados (push) en la rama (branch):
 
