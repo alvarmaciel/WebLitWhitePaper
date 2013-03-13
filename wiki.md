@@ -1,33 +1,22 @@
-To get started as a translator of the *Ruby on Rails Tutorial* book, use GitHub to send a message requesting to be added as a collaborator on the `rails_tutorial_translation` repository. What you do next depends on whether a translation effort in your language is already underway. You can tell if your target language's translation has already been started by looking for a branch with the language name at [the main repository page](https://github.com/mhartl/rails_tutorial_translation). (Mouse over the "Switch Branches" link to see a list of the branches.)
+Para empezar como traductor de la *wiki de estándares de alfabetizaciones web* de Mozilla, usá GitHub para mandar un mensaje solicitando ser agregado como colaborador en el repositorio `WebLitWhitePaper`. Lo que deberá hacer despuués dependerá de si el esfuerzo por la traducción en su idioma ya está en marcha. Puede averiguar si la traducción a su idioma ya ha empezó, mirando si hay una rama (branch) con el nombre de su idioma en la página [principal principal del repositorio] (https://github.com/alvarmaciel/WebLitWhitePaper/). Vaya al link "Switch Branches" para ver la lista de ramas (branchs).
 
-Para empezar como traductor de la *wiki de estándares de alfabetizaciones web* de Mozilla, usá GitHub para mandar un mensaje solicitando ser agregado como colaborador en el repositorio `WebLitWhitePaper`. Lo que deberá hacer despuués dependerá de si el esfuerzo por la traducción en su idioma ya está en marcha. Puede averiguar si la traducción a su idioma ya ha empezó, mirando si hay una rama (branch) con el nombre de su idioma en la página [principal principal del repositorio] (https://github.com/alvarmaciel/WebLitWhitePaper/). Vaya al link "Switch Branches" para ver la lista de ramas (branchs)
-
-## Translating to a new language
+## Traducción a un idioma nuevo
 
 To translate the *Ruby on Rails Tutorial* book to a new language, first send a request to be added as a collaborator on the GitHub repository. Then clone the repository, create a new branch, and configure the remote branch before pushing the repository up:
 
-```sh
-$ git clone git@github.com:mhartl/rails_tutorial_translation.git
-$ cd rails_tutorial_translation
-$ git checkout -b spanish
-$ git config branch.spanish.remote origin
-$ git config branch.master.merge refs/heads/spanish
-$ git push origin spanish
-```
-
-Next, request a new Heroku instance by sending me a message through GitHub. I will create a Heroku project for your language and add you as a collaborator. After receiving a message that the project is ready, you should configure your local repository as follows:
+para traducir la *wiki de estándares de alfabetizaciones web* a un idioma nuevo, primero envie un mensaje para ser agregado como colaborador en el repositorio GitHub. Después:
+1. clone el repositorio
+2. cree una nueva rama
+3. configure la rama remota antes de publicar (push) al repositorio
 
 ```sh
-$ git remote add heroku git@heroku.com:rails-tutorial-spanish.git
+$ git clone git@github.com:alvarmaciel/WebLitWhitePaper.git ## así clonan
+$ cd rails_tutorial_translation ## entran el directorio de trabajo
+$ git checkout -b spanish ## crean la nueva rama
+$ git config branch.spanish.remote origin ## Configuran la rama
+$ git config branch.master.merge refs/heads/spanish ## Configuran la rama
+$ git push origin spanish # Publican - push - a la r
 ```
-
-You will then be able to deploy your translation using a `git push`:
-
-```sh
-$ git push heroku spanish:master
-```
-
-**Note:** Do not give the Heroku URL to prospective readers. For each language, I will create a custom URL of the form <tt>spanish.railstutorial.org</tt> intended for distribution.
 
 ## Contributing to an existing translation
 
