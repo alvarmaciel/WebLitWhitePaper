@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2013-03-20 07:17-0300\n"
-"PO-Revision-Date: 2013-03-20 09:57-0300\n"
+"PO-Revision-Date: 2013-03-20 12:07-0300\n"
 "Last-Translator: Alvar <alvarmaciel@gmail.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "Language: \n"
@@ -63,13 +63,13 @@ msgstr "**[Find out more &gt;&gt;&gt;][1]**"
 #: weblitwhtiepaper.md:15
 #, no-wrap
 msgid "**v0.91 (release candidate)**\n"
-msgstr ""
+msgstr "**v0.91 (release candidate)**"
 
 #. type: Plain text
 #: weblitwhtiepaper.md:17
 #, no-wrap
 msgid "*Working towards a framework to understand the skills, competencies and literacies necessary to be a Webmaker.*\n"
-msgstr ""
+msgstr "*Trabajando acerca de un marco para entender habilidades, competencias y alfabetizaciones necesarias para ser un Webmaker*\n"
 
 #. type: Plain text
 #: weblitwhtiepaper.md:19
