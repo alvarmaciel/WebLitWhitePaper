@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2013-03-20 07:17-0300\n"
-"PO-Revision-Date: 2013-03-20 08:48-0300\n"
+"PO-Revision-Date: 2013-03-20 09:57-0300\n"
 "Last-Translator: Alvar <alvarmaciel@gmail.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "Language: \n"
@@ -25,36 +25,39 @@ msgid ""
 "\"Permalink to Learning/WebLiteracyStandard/Legacy/WebLiteraciesWhitePaper - "
 "MozillaWiki\")"
 msgstr ""
+"[Permalink](https://wiki.mozilla.org/Learning/WebLiteraciesWhitePaper "
+"\"Permalink to Learning/WebLiteracyStandard/Legacy/WebLiteraciesWhitePaper - "
+"MozillaWiki\")"
 
 #. type: Title #
 #: weblitwhtiepaper.md:3
 #, no-wrap
 msgid "Learning/WebLiteracyStandard/Legacy/WebLiteraciesWhitePaper - MozillaWiki"
-msgstr ""
+msgstr "Learning/WebLiteracyStandard/Legacy/WebLiteraciesWhitePaper - MozillaWiki"
 
 #. type: Title ###
 #: weblitwhtiepaper.md:5
 #, no-wrap
 msgid "From MozillaWiki"
-msgstr ""
+msgstr "From MozillaWiki"
 
 #. type: Plain text
 #: weblitwhtiepaper.md:8
 #, no-wrap
 msgid "**This is a legacy page for reference purposes.**\n"
-msgstr ""
+msgstr "**This is a legacy page for reference purposes.**"
 
 #. type: Plain text
 #: weblitwhtiepaper.md:9
 #, no-wrap
 msgid "**We're proposing a new Learning Standard for Web Literacy**  \n"
-msgstr ""
+msgstr "** Estamos proponiendo un nuevo Estándar en Alfabetización Web**"
 
 #. type: Plain text
 #: weblitwhtiepaper.md:11
 #, no-wrap
 msgid "**[Find out more &gt;&gt;&gt;][1]**\n"
-msgstr ""
+msgstr "**[Find out more &gt;&gt;&gt;][1]**"
 
 #. type: Plain text
 #: weblitwhtiepaper.md:15
