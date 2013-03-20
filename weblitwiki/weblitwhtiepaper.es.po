@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2013-03-20 07:17-0300\n"
-"PO-Revision-Date: 2013-03-20 12:07-0300\n"
+"PO-Revision-Date: 2013-03-20 12:08-0300\n"
 "Last-Translator: Alvar <alvarmaciel@gmail.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "Language: \n"
@@ -75,7 +75,7 @@ msgstr "*Trabajando acerca de un marco para entender habilidades, competencias y
 #: weblitwhtiepaper.md:19
 #, no-wrap
 msgid "**Authors:** Mozilla Learning Team and you!\n"
-msgstr ""
+msgstr "**Authors:** Mozilla Learning Team and you!\n"
 
 #. type: Plain text
 #: weblitwhtiepaper.md:21
