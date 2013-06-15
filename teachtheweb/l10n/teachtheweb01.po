@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-15 15:17-0300\n"
+"POT-Creation-Date: 2013-06-15 15:24-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,3 +10,488 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.9.0\n"
+
+#: en/teachtheweb01.html+div.div.article.div.h3:12
+msgid "Week 1: Making as Learning"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:13
+msgid ""
+"<strong>MAKE Project this week:</strong> Introduce yourself <a "
+"href=\"http://twitter.com/webmaker\">@Webmaker</a> style by using <a "
+"href=\"https://webmaker.org/en-US/tools/#popcorn-maker\">Popcorn Maker</a>, <a "
+"href=\"https://webmaker.org/en-US/tools/#thimble\">Thimble</a> or the <a "
+"href=\"https://webmaker.org/en-US/tools/#x-ray-goggles\">XRay Goggles</a> and "
+"sharing your make with <a href=\"https://twitter.com/search?q=%"
+"23teachtheweb&src=typd\">#teachtheweb</a>."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:14
+msgid ""
+"Welcome to the first week of <a title=\"Twitter Search #teachtheweb\" "
+"href=\"https://twitter.com/search?q=%23teachtheweb&src=typd\" "
+"target=\"_blank\">#teachtheweb</a>. This entire experience is yours to make. "
+"There are ways to use the course in a light touch way, but of course the "
+"more you invest the bigger the return. There are thousands of people "
+"registered to participate with you. <span id=\"more-214\"></span>Some will do "
+"everything, some will do nothing. Nothing is required, but <strong>we "
+"encourage you to read the posts, try the tasks and participate in the "
+"experience as much as you can</strong>. Make the things you want to make, "
+"take risks, share your projects and thoughts in the online channels and give "
+"your feedback to your peers. The important thing is to make #teachtheweb "
+"what you need it to be."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:15
+msgid ""
+"This week, we’ll start a conversation around ‘Making as Learning’. "
+"Throughout #teachtheweb, we’ll be making digital artifacts, so it seemed "
+"like a good idea to take a look at the Making as Learning pedagogy and "
+"explore what that means."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:16
+msgid ""
+"We are all makers. We cook, sew, construct, write, play music, tinker, "
+"paint, tell stories. We engage in our world through the creation of "
+"thousands of artifacts that allow others to understand our understandings, "
+"views and experiences. We express ourselves through creation. In the process "
+"of making we express ourselves and then we reflect on what we’ve created. "
+"We share our creations with others and we ask for feedback. “Do you like my "
+"new recipe?” “What do you think of my painting?”"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:17
+msgid ""
+"Throughout this process, we learn. It is through trial and error and the "
+"ever important failure that we learn what to do and what not to do. Learning "
+"to make something work involves discovery and wonder – it’s a spiral of "
+"intrinsic motivation; each new understanding unlocks new questions. We "
+"improve our skills as we create."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.h4:18
+msgid "Mentorship & Empowerment"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:19
+msgid ""
+"Creative making in the digital space is every bit as empowering and thought "
+"provoking as any other kind of creation. Instead of pushing educational "
+"technologies and practices into our learners’ lives, we should be pulling "
+"the informal technologies and practices of our learners into the formal and "
+"informal learning spaces our societies rely on. We should allow them to "
+"mentor us, as we do the same."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:20
+msgid ""
+"Making, as well as learning, is a culture-influenced and influencing "
+"phenomenon, therefore it’s important to understand the cultural influences "
+"that shape our makes, and the degree to which our makes shape culture. This "
+"seems particularly important when we think of making digital artifacts, "
+"since this begins with the premise of access. In online learning spaces, who "
+"is not represented, and why is that?"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:21
+msgid ""
+"We each bring our own unique skills and life experiences to creating "
+"something. In the Making as Learning aligned networks like <a "
+"title=\"Webmaker\" href=\"http://webmaker.org\" target=\"_blank\">Webmaker</a>, "
+"the <a title=\"Hive Learning Networks\" href=\"http://explorecreateshare.org\" "
+"target=\"_blank\">Hive Learning Networks</a>, <a "
+"href=\"https://twitter.com/make2learn\" target=\"_blank\">Make to Learn</a>, the "
+"<a title=\"Digital Is National Writing Project\" "
+"href=\"http://digitalis.nwp.org\" target=\"_blank\">National Writing Project</a> "
+"and many, many more are integrating interested-based, hands on activities "
+"into their lesson plans and programming to focus more squarely on each "
+"learner’s needs as opposed to subject matter. These networks are "
+"experimenting with changing the power dynamic between teacher and learner, "
+"instead forming networks of peers, and using the idea of mentorship to level "
+"up competencies, both in the “learner” as well as the “teacher”."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:22
+msgid ""
+"The aim is to create safe places for all people to experiment as making "
+"always has failure. People in this scenario are not just youth, but the "
+"educators, techies, parents, scout leaders, and many others who feel as if "
+"they lack the technical and/or social competencies to participate in the "
+"digital spaces. If we are afraid of failure, we may never create new things, "
+"which means we won’t learn to solve the toughest problems."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:23
+msgid ""
+"It’s time to face our fear of failure, rely on one another to be "
+"collaborative and begin experimenting in the digital space."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:24
+msgid ""
+"Let’s embark on <a title=\"G+ Webmaker Community\" "
+"href=\"http://mzl.la/gpluswebmaker\" target=\"_blank\">peer supported</a> "
+"experimentation in varying forms of creation, and we’ll start to see that "
+"digital tools allow us to make and reconnect both in the digital as well as "
+"the physical world. We can use these tools to push our learners on their own "
+"journey of life-long learning as well as for specific exploration of "
+"particular topics."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.h4:25
+msgid "Tasks"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:26
+msgid ""
+"Throughout #teachtheweb, we’ll use <a href=\"http://webmaker.org/tools\" "
+"target=\"_blank\">Webmaker</a> and other digital tools to make things that "
+"allow us to explore web and digital making."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.h5:27
+msgid "Introduce yourself, Webmaker-style!"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:28
+msgid ""
+"Welcome to the Webmaker Mentor community! We’re thrilled you’re here and are "
+"REALLY looking forward to learning and making with you. We’re loving the "
+"unique introductions some of you have shared – be it via <a "
+"href=\"https://webmaker.org/en-US/tools/#popcorn-maker\" "
+"target=\"_blank\">Popcorn</a> video, <a href=\"https://webmaker.org/en-"
+"US/tools/#thimble\" target=\"_blank\">Thimble</a> page, or other format that "
+"exemplifies what makes “making” on the web so special."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:29
+msgid ""
+"<strong>The MAKE for this week</strong> is to create a webby intro, and post "
+"it under the “Introductions” thread on <a title=\"G+ Webmaker Community\" "
+"href=\"http://mzl.la/gpluswebmaker\" target=\"_blank\">G+ Webmakers</a>. Below "
+"are starter ideas, templates and examples for inspiration. Feel free to "
+"remix the templates!"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:30
+msgid ""
+"The <strong>X-Ray Goggles</strong> show you the underlying building blocks "
+"of the Web. You can remix an existing webpage to become a profile page. Get "
+"started with this awesome video:"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:31
+msgid ""
+"<iframe src=\"http://popcorn.webmadecontent.org/1of_\" "
+"1=\"webkitallowfullscreen\" 2=\"allowfullscreen\" class=\"iframe-class\" "
+"frameborder=\"0\" height=\"403\" scrolling=\"no\" width=\"640\"></iframe><br> See an "
+"example: From <a href=\"http://cogdogblog.com/\">CogDog</a>: <a href=\"https:/"
+"/twitter.com/cogdog/status/313986609773178880/photo/1\">https://twitter.com/c"
+"ogdog/status/313986609773178880/photo/1</a>"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:35
+msgid "Thimble:"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:37
+msgid "6-word memoir"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:38
+msgid "Profile Template"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:39
+msgid "Ankit’s one page bio"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:42
+msgid "Popcorn:"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:47
+msgid "Remix the Video 6-word memoir"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li.ul.li:48
+msgid "Some example video bios: <ul>"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li.ul.li:50
+msgid "Syafiq Mazli"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li.ul.li:51
+msgid "Cari Rérat"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li.ul.li:52
+msgid "Benjamin Kasavan"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:56
+msgid ""
+"Meet the Webmaker Mentor Team! This is the team at Mozilla working hard to "
+"grow this global community of people like yourself who care about digital "
+"literacy and the open web, and want to help teach and share their skills "
+"with others. In addition to working on this MOOC, we’re busy planning <a "
+"href=\"http://webmaker.org/party\">Maker Party 2013</a>, <a title=\"Mozilla "
+"Festival\" href=\"http://mozillafestival.org\">MozFest</a>, creating <a "
+"title=\"Kits\" href=\"http://webmaker.org/kits\">Webmaker mentor resources</a> "
+"and overseeing <a title=\"Hive Learning Networks\" "
+"href=\"http://explorecreateshare.org\">Hive Learning Networks</a> in NYC and "
+"Toronto. Beatrice, Chris, <a "
+"href=\"https://thimble.webmaker.org/p/lybh/\">Julia</a>, <a "
+"href=\"http://popcorn.webmadecontent.org/zix\">Kathryn</a>, <a "
+"href=\"http://popcorn.webmadecontent.org/z1z\">Lainie</a>, Laura, Leah, Matt, "
+"Michelle, Sayak"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:57
+msgid "We’re excited to get to know you better!"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.h5:58
+msgid "Reflection"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:59
+msgid ""
+"Choose one of these questions (or make up one of your own), and write a blog "
+"post on it. Then share your post in the <a title=\"G+ Webmaker Community\" "
+"href=\"http://mzl.la/gpluswebmaker\">G+ Community</a> or using <a "
+"href=\"https://twitter.com/search?q=%23teachtheweb&src=typd\">#teachtheweb on "
+"Twitter</a>."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:61
+msgid ""
+"What do you value about making, and how can you contribute to the building "
+"of the knowledge base that is the #teachtheweb community?"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:62
+msgid ""
+"What is the advantage of making as learning over traditional “forward "
+"facing” pedagogies? Disadvantages?"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:63
+msgid "What kind of thinking is involved when you Make?"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:64
+msgid ""
+"How transferable are coding skills to other domains? Why is learning a "
+"little code important?"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:65
+msgid ""
+"How can webmaking help discovery and wonder be valued in formal learning "
+"spaces?"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.h4:67
+msgid "Small Sampling of Readings and Resources"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:69
+msgid "Good introductory read from Rafi Santo"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:70
+msgid "the PDF of the below video – FLOW: The Psychology of Optimal Experience"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:78
+msgid "Get Started with Popcorn"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:79
+msgid ""
+"<a href=\"http://www.code.org/stats\" target=\"_blank\">Stats</a> about why "
+"coding is important for students in the long run"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:80
+msgid ""
+"<a title=\"License to Hack\" href=\"http://www.schoollibraryjournal.com/slj/pri"
+"ntissue/currentissue/892013-427/license_to_hack_kids_are.html.csp\">Article "
+"about DefCon’s Kid’s Track </a>and why hacking is a good thing for students. "
+"“It’s the original creative spirit and emphasis on skill building and "
+"inquiry that Chris Hoff is hoping to instill in the next generation.”"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:81
+msgid "Children’s Narrative Development through Computer Game Authoring"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:82
+msgid ""
+"Evaluating the Use of Mulitmedia authoring with Dyslexic Learners: A Case "
+"Study"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:83
+msgid ""
+"<a href=\"http://scratch.mit.edu/\">Scratch</a> – designed specifically to "
+"help kids learn to code"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:84
+msgid "TedX video from creator of Scratch"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:85
+msgid "Scratch: Multimedial programming environment for young gifted learners"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:86
+msgid ""
+"Sir Ken Robinson <a "
+"href=\"http://www.youtube.com/watch?v=8Qx2iHknT1E\">Changing Educational "
+"Paradigms </a>"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:87
+msgid ""
+"Bret Victor <a href=\"http://worrydream.com/InventingOnPrinciple/\">Inventing "
+"on Principle </a>"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:88
+msgid ""
+"<a href=\"http://www.papert.org/articles/EpistemologicalPluralism.html\">Epist"
+"emological Pluralism and the Revaluation of the Concrete</a> by Sherry "
+"Turkle & Seymour Papert"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:89
+msgid ""
+"Henry Jenkin’s <a "
+"href=\"http://henryjenkins.org/2012/03/connected_learning_a_new_parad.html "
+"and working with young adults to utilize their existing skillsets for "
+"learning http://digitallearning.macfound.org/atf/cf/%7B7E45C7E0-A3E0-4B89"
+"-AC9C-E807E1B0AE4E%7D/JENKINS_WHITE_PAPER.PDF\">Connected Learning/New Media "
+"Literacies</a>"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.h4:91
+msgid "Special Thanks"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.p:92
+msgid ""
+"The following is a list of people who contributed their thoughts to the "
+"planning document for Making as Learning. Want to help plan topics? Check "
+"out the <a title=\"Planning #teachtheweb\" "
+"href=\"http://hivenyc.org/teachtheweb/planning/\">Planning page</a> on the "
+"#teachtheweb site."
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:94
+msgid "Laura Hilliger (@epilepticrabbit)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:95
+msgid "Julia Vallera (@colorwheelz)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:96
+msgid "Benjamin Kasavan (@bkasavan)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:97
+msgid "Ibrahima Sarr"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:98
+msgid "Muhammad Syafiq Mazli (@syafiqmazli)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:99
+msgid "Cari Rerat (@rhymeswcarrot)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:100
+msgid "Emma Irwin (@sunnydeveloper)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:101
+msgid "Brendan Murphy (@dendari)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:102
+msgid "Dorine Flies (@epikprojectuk)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:103
+msgid "San James (@jsan4christ)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:104
+msgid "Chad Sansing (@chadsansing)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:105
+msgid "Sandraghassen S Pillai [ganesh] (@onlygan)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:106
+msgid "Lawrence Kisuuki (@lawkis)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:107
+msgid "Cliff Argwings (@qleeph)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:108
+msgid "Kim Wilkens (@kimxtom)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:109
+msgid "Soumya Deb (@Debloper)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:110
+msgid "Meredith Summs (@meredithsumms)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:111
+msgid "Doug Belshaw (@dajbelshaw)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:112
+msgid "Paul Oh (@poh)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:113
+msgid "Galaxy Kadiyala (@GalaxyK)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:114
+msgid "Santiago Ferreira (@cosmikspin)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:115
+msgid "Gauthamraj Elango (@gauthamrajela)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:116
+msgid "Mura Nava(@muranava)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:117
+msgid "Ankit Gadgil (@anknite)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:118
+msgid "Verena Roberts (@verenanz)"
+msgstr ""
+
+#: en/teachtheweb01.html+div.div.article.div.ul.li:119
+msgid "Emily Long (@emlong)"
+msgstr ""
