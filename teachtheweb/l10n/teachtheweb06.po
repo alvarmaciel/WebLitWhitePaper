@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-15 15:17-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: en/teachtheweb06.html+div.div.article.div.h3:12
+msgid "Week 6: Peers Working in the Open"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:13
+msgid ""
+"<strong>MAKE Project this week:</strong> Use remix as a form of constructive "
+"criticism. Try running someone’s activity from last week and/or do a "
+"critical review of their resource, learning goals, idea, etc. Remix the "
+"activity/resource to ask questions, give ideas or otherwise give your peer "
+"some feedback.<span id=\"more-434\"></span>"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:14
+msgid ""
+"Throughout #teachtheweb, we’ve been interacting with one another through our "
+"comments, suggested group work and conversations. <strong>We’ve used making "
+"as a mechanism for communication</strong>, and shared our thoughts and "
+"desires through the work we’ve been doing thus far. This week, we’re going "
+"to take a closer look at the idea of <strong>open collaboration</strong> and "
+"try to understand why it pushes each of us to be more effective in our "
+"work."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.h4:15
+msgid "Constructive Criticism"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:16
+msgid ""
+"We gather strength and confidence from positive feedback, just as negative "
+"feedback forces us to consider whether our ideas are valid.  Reaction pushes "
+"us to think about our actions, so <strong>when we work openly, we invite "
+"reaction.</strong> While metaphorical pats on the back are necessary (and "
+"encouraged!), the type of feedback that really push us to grow are "
+"thoughtfully-formulated constructive criticisms."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:17
+msgid ""
+"<strong>Giving constructive criticism (and receiving it) is something that "
+"takes practice.</strong> We adhere to “<a "
+"href=\"http://en.wikipedia.org/wiki/Thumper_(Bambi)\">if you can’t say "
+"something nice, don’t say nothing at all</a>” because we don’t believe that "
+"our opinions are necessary. We forget that criticism doesn’t have to lead to "
+"complete redesign or reformulation. <strong>We also tend to spend time "
+"focusing on our own things, rather than looking at other people’s ideas and "
+"thinking about making them better.</strong> We ask for feedback and expect "
+"to get some, but <strong>we rarely give our feedback freely</strong> – we "
+"wait until our specific feedback is requested or until the work directly "
+"affects our own."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.div.p:18
+msgid "What open means to you / johndbritton / CC BY-SA"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:19
+msgid ""
+"We all know how fantastic it is to get good, constructive feedback on "
+"something we’re working on. What if we all took more time to give feedback "
+"like that to others? What would happen?"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:20
+msgid ""
+"On the flip side of giving feedback, we have to receive it. <strong>It can "
+"be hard to hear critiques that reshape your work</strong>, but think about "
+"the input with some distance and consider how it might improve what you’re "
+"doing. If, in the end, you disagree with the critique, explain why and your "
+"reaction will lead to a further conversation. We should aim to assume good "
+"faith when discussing feedback, and think not only of what to critique, but "
+"also concrete proposals to make it better."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:21
+msgid ""
+"<strong>Feedback is a way to invite people into your project.</strong> "
+"Asking for it can become a gateway to deeper participation and collaboration "
+"as it gives agency."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.h4:22
+msgid "Deeper Collaboration"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:23
+msgid ""
+"Giving feedback is an important part of collaboration, but there’s more to "
+"it than just giving and receiving feedback. <strong>People learn to "
+"collaborate in different ways, along multiple paths, just as they learn to "
+"code or make things.</strong> Our experiences in group work past and present "
+"have great influence over how we think about ourselves as collaborators, "
+"and how we act as collaborators is greatly contingent on who we are."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:24
+msgid ""
+"As we discussed last week, our roles as mentors are changing, and so are the "
+"roles of learners and peers. <strong>These roles are fluid in maker and "
+"remix pedagogies</strong>, and they’re fluid in spaces where community and "
+"inquiry drive co-learning and making. As we discussed in “<a title=\"Week 4: "
+"Add the Web to Anything\" href=\"http://hivenyc.org/teachtheweb/week-4-add-"
+"the-web-to-anything/\">Add the Web to Anything</a>”, we have agency to "
+"control our own experiences, which means we can experiment with our own "
+"perception of the role we’re playing and even change that role. If one of us "
+"has this agency, so do all of us, which means that <strong>we have to be "
+"respectful of the differences in our collaborative styles.</strong>"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:25
+msgid ""
+"We can help one another better understand fair use, remix, and "
+"transformative use by unpacking systemic and personal biases against "
+"collaboration. At the same time, we can help each other understand the "
+"pathways that lead to those biases, all the while using them to "
+"<strong>create opportunities for individual contributions that push our "
+"collaborative projects to new levels.</strong>"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:26
+msgid ""
+"In short, <strong>deeper, more meaningful collaborations will come from our "
+"ability to create complex social spaces that encourage freedom of expression "
+"and honesty.</strong>"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.h4:27
+msgid "Make Projects this Week"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:28
+msgid ""
+"<strong>MAKE Project this week:</strong> Use remix as a form of constructive "
+"criticism. Try running someone’s activity from last week and/or do a "
+"critical review of their resource, learning goals, idea, etc. Remix the "
+"activity/resource to ask questions, give ideas or otherwise give your peer "
+"some feedback."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:29
+msgid "Other suggested makes:"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:31
+msgid ""
+"<a href=\"http://bitly.com/bundles/dajbelshaw/1\" target=\"_blank\"><strong>GIVE "
+"FEEDBACK to the Web Literacy Standard skills</strong></a> – we only have "
+"until June 26th to put thoughts in these documents!"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:32
+msgid ""
+"Make a <a href=\"http://mentormob.com\">MentorMob</a> playlist that alternates "
+"between group work and individual work."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:33
+msgid "Give constructive feedback to the Webmaker Product team."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:34
+msgid ""
+"Make a single-page project or web app with a <strong>feedback form</strong>."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:35
+msgid ""
+"<strong>Ask</strong> specific people <strong>for feedback</strong> on a "
+"project, blog post, idea, etc."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:36
+msgid ""
+"Collaborate to <strong>rapidly prototype and playtest a game</strong>. "
+"Document and share everything."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:37
+msgid ""
+"<strong>Make a feedback-giving .gif animation</strong>, then remix it into a "
+"#teachtheweb project about giving good feedback."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:38
+msgid ""
+"<strong>Revise something from the past</strong> that has actionable feedback "
+"pending and document and share the revisions."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:39
+msgid ""
+"Make a “choose your own” CSS webpage adventure, ask folks to document and "
+"share the choices they make in viewing and learning from your content, and "
+"revise and publish a draft using the data you collect about users’ choices."
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:40
+msgid "Contribute to Opportunity Knocks"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.h4:42
+msgid "Reflection"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:44
+msgid ""
+"What “best practice” forms of collaboration do connected learners and "
+"webmakers use?"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:45
+msgid ""
+"How can definitions of collaboration from informal learning spaces broaden "
+"collaboration in formal spaces?"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:46
+msgid ""
+"What are the barriers to collaboration in our spaces, and how do we help one "
+"another work around them to keep our teaching and learning open?"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:47
+msgid "How should we balance collaborative work with individual work?"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:48
+msgid "How does empathy play into collaboration?"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:49
+msgid "How does leadership play into collaboration?"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:50
+msgid "How do the following idioms relate to collaboration? <ul>"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:52
+msgid "“If you want something done right, do it yourself”"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:53
+msgid "“No man is an island.”"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:54
+msgid "“There’s no such thing as a free lunch.”"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:55
+msgid "“Actions speak louder than words.”"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:56
+msgid "“Too many cooks spoil the broth.”"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:57
+msgid "“Two heads are better than one.”"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:58
+msgid "“Honesty is the best policy.”"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:59
+msgid "“A chain is only as strong as its weakest link.”"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.h4:63
+msgid ""
+"Readings and Resources<a href=\"https://towtruck.mozillalabs.com/\"><img "
+"scale=\"0\" class=\"alignnone\" alt=\"TowTruck\" "
+"src=\"http://cdn.ndtv.com/tech/images/mozilla_towtruck.png\" height=\"348\" "
+"width=\"635\"></a>"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:65
+msgid ""
+"Great documentarians, who invite collaboration and feedback through their "
+"reflections: <ul>"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:67
+msgid ""
+"<a href=\" http://dogtrax.edublogs.org/\" target=\"_blank\">Kevin Hodgson</a> "
+"(@dogtrax)"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:68
+msgid ""
+"<a href=\"http://johnjohnston.info/106/\" target=\"_blank\">John Johnston</a> "
+"(@johnjohnston)"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:69
+msgid ""
+"<a href=\"http://edvisioned.ca/\" target=\"_blank\">Andy Forgrave</a> "
+"(@aforgrave)"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li.ul.li:70
+msgid ""
+"<a href=\"http://mtechman.wordpress.com/\" target=\"_blank\">Melissa Techman</a> "
+"(@mtechman)"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:73
+msgid "Susan Cain the Power of Introverts"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:74
+msgid "10 TedTalks on Collaboration"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:75
+msgid "Introducing TowTruck: A Collaboration Service For Every Website"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:76
+msgid "the School of Open"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.h4:78
+msgid "SPECIAL THANKS"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.p:79
+msgid ""
+"T<em>he following is a list of people who contributed their thoughts to the "
+"planning document for this topic. Want to help plan topics? Check out the <a "
+"href=\"http://hivenyc.org/teachtheweb/planning/\">Planning page on the "
+"#teachtheweb site.</a></em>"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:81
+msgid "Laura Hilliger (@epilepticrabbit)"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:82
+msgid "Chad Sansing (@chadsansing)"
+msgstr ""
+
+#: en/teachtheweb06.html+div.div.article.div.ul.li:83
+msgid "Michelle Thorne (@thornet)"
+msgstr ""

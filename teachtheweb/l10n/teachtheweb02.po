@@ -1,0 +1,447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-15 15:17-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: en/teachtheweb02.html+div.div.article.div.h3:12
+msgid "Week 2: Connected Learning in Practice"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:13
+msgid ""
+"<strong>MAKE Project this week: </strong><a "
+"href=\"https://teach.etherpad.mozilla.org/mooc-makes\" target=\"_blank\">Explore "
+"the awesome makes from last week</a>, choose one, and remix it. Then share "
+"your make with the <a href=\"http://mzl.la/gpluswebmaker\" target=\"_blank\">G+ "
+"Community</a> and be sure to +mention the person whose project you remixed."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:14
+msgid "Other Makes to try:"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:16
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li:16"
+msgid ""
+"Go to the <a href=\"http://dmlhub.net/\">DML Hub</a> or <a "
+"href=\"http://connectedlearning.tv\" target=\"_blank\">Connected Learning</a> "
+"sites find a resource (video, blog, webpage, graphic, image) and remix or "
+"comment to/on it using <a href=\"http://webmaker.org/tools\" "
+"target=\"_blank\">Webmaker</a> or other production centered tools."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:17
+msgid ""
+"Create a resource (media, web, blog) about how you use Connected Learning in "
+"your practice, work mentor relationships. Use Webmaker or other tools<span "
+"id=\"more-299\"></span>"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:18
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li:18"
+msgid ""
+"Write a guest blog post for the <a href=\"http://explorecreateshare.org\" "
+"target=\"_blank\">Hive NYC blog</a> or for <a href=\"http://digitalis.nwp.org\" "
+"target=\"_blank\">Digital Is</a>"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:19
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:19"
+msgid ""
+"Prototype the <a href=\"http://digitalis.nwp.org/site-blog/dml-make-"
+"beautiful-six-word-memoir/4807\" target=\"_blank\">NWP’s “Make a "
+"Beautiful…”</a> Thimble series…OR help take their ideas for these and build "
+"them into projects: <ul>"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:21
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:21"
+msgid "Make a Beautiful Haiku"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:22
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:22"
+msgid "Make a Beautiful 100-Word Story"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:23
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:23"
+msgid "Make a Beautiful Where I’m From Poem"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:24
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:24"
+msgid "Make a Beautiful This I Believe Statement"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:27
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li:27"
+msgid "Start connecting with your peers and dive into their work!"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:33
+msgid ""
+"<strong>Last week we explored “Making as Learning”.</strong> We’re "
+"proponents of the idea that people learn best through making, but we also "
+"believe that making and learning are social activities. It’s a bit like the "
+"old idiom “If a tree falls in the forest and no one is around to hear it, "
+"does it make a sound?” If you make and learn, but don’t share and gather "
+"feedback, have you really learned? How do other people’s <strong>perceptions "
+"influence</strong> how we understand the world around us? How does being "
+"connected change the very fabric of our world?"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:40
+msgid ""
+"A lot of people are thinking about how to connect learning. Last year, "
+"MacArthur Foundation’s Digital Media and Learning Initiative released a new "
+"learning model called <a href=\"http://dmlcentral.net/press/2012-02"
+"/researchers-introduce-new-model-learning-connected-learning-designed-‘mine-"
+"new-social\" target=\"_blank\">“Connected Learning”</a>. This model proposes a "
+"framework for organizations and individuals to collaborate in an openly "
+"networked way and to take advantage of changes in technology and "
+"connectivity."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:42
+msgid "These principles state that education in the modern world needs to be:"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ol.li:44
+msgid ""
+"<strong>Interest-powered</strong> – the researchers state that "
+"<strong>“learners who are interested in what they are learning, achieve "
+"higher order learning outcomes.”</strong> This requirement brings a certain "
+"degree of relevance to educational models. Organizations that follow the "
+"connected learning principles create programming that allows the learner to "
+"explore their own interests."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ol.li:45
+msgid ""
+"<strong>Peer-supported</strong> – Connected learning also has an element of "
+"<strong>socialization as a required function in learning</strong>. Allowing "
+"learners to interact with each other and teach each other in various forms "
+"of group work helps learners make connections not only with the materials "
+"they’re learning, but with their peers as well. Creating learning spaces "
+"where peer to peer learning is encouraged leads to deeper cultural "
+"exploration and understanding."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ol.li:46
+msgid ""
+"Academically oriented</strong> – The third principle proposed by the "
+"Connected Learning Model proposes that <strong>academic success is an "
+"important underpinning for intellectual growth."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:48
+msgid ""
+"The Connected Learning model further describes design principles and values "
+"for modern education that have their beginnings in the philosophical ideas "
+"and information presented during the Reform Pedagogy and Progressive "
+"Education movements."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:49
+msgid ""
+"A connection between the theories circulating at the end of the 19th century "
+"and those educational theorists are calling for as a solution to problems "
+"existing in the modern educational landscape are not very different from one "
+"another. The revival of an interest project-based approach to all "
+"educational endeavors is at the heart of the “Making as Learning” approach."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:50
+msgid "Read more about the Connected Learning Model here."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.h4:51
+msgid "But what does this mean IN PRACTICE?"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:53
+msgid ""
+"There are a variety of networks that seek to put these principles and values "
+"into practice. Connected Learning is an innovative way of creating peer "
+"groups from different parts of world for the sake of learning & sharing "
+"knowledge, so all over the world groups of people and organizations are "
+"beginning to use the model to help them design learning opportunities for "
+"their local communities."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:54
+msgid ""
+"In NYC, Chicago, Pittsburgh and Toronto the <a "
+"href=\"http://hivelearningnetwork.org/\" target=\"_blank\">Hive Learning "
+"Network</a> is composed of non-profit organizations—museums, libraries, "
+"after-school clubs and informal learning spaces—that create Connected "
+"Learning opportunities for youth. <strong>These organizations have regular "
+"meetups and a designated online space where the conversation around their "
+"various initiatives never stops.</strong> In addition, these organizations "
+"share resources, partner on programs, do outreach with and for each other "
+"and share everything online, so that anyone can see what a particular Hive "
+"is up to."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:55
+msgid ""
+"The <a href=\"http://nwp.org\" target=\"_blank\">National Writing Project</a> "
+"uses partnerships and its internal network to support a variety of youth "
+"programming and educator professional development, bringing people from "
+"across the US together. <strong>More than 300 locales are connected to "
+"national NWP initiatives and partnerships</strong>, meaning that thousands "
+"of educators have access to local sites. Through their <a "
+"href=\"http://digitalis.nwp.org\" target=\"_blank\">Digital Is</a> site, the NWP "
+"helps educators stay connected and improve on their own practices."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:56
+msgid ""
+"<strong>These are just two of many kindred networks that use the Connected "
+"Learning model.</strong> In these two examples, the practice of Connected "
+"Learning manifests itself both online and offline. These networks design "
+"work and learning with the idea that sharing and openness is required for "
+"connected learning, and they design their programs to take place both in the "
+"real as well as in the virtual world."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:57
+msgid ""
+"In practice, it would seem that both hyper-local aspects as well as global "
+"connections play an important role in Connected Learning."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.h4:58
+msgid "MAKE Projects this week:"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:60
+msgid ""
+"<a href=\"https://teach.etherpad.mozilla.org/mooc-makes\" "
+"target=\"_blank\">Explore the awesome makes from last week</a>, choose one, "
+"and remix it. Then share your make with the <a "
+"href=\"http://mzl.la/gpluswebmaker\" target=\"_blank\">G+ Community</a> and be "
+"sure to +mention the person whose project you remixed."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:61
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li:61"
+msgid ""
+"Go to the <a href=\"http://dmlhub.net/\">DML Hub</a> or <a "
+"href=\"http://connectedlearning.tv\" target=\"_blank\">Connected Learning</a> "
+"sites find a resource (video, blog, webpage, graphic, image) and remix or "
+"comment to/on it using <a href=\"http://webmaker.org/tools\" "
+"target=\"_blank\">Webmaker</a> or other production centered tools."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:62
+msgid ""
+"Create a resource (media, web, blog) about how you use Connected Learning in "
+"your practice, work mentor relationships. Use Webmaker or other tools"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:63
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li:63"
+msgid ""
+"Write a guest blog post for the <a href=\"http://explorecreateshare.org\" "
+"target=\"_blank\">Hive NYC blog</a> or for <a href=\"http://digitalis.nwp.org\" "
+"target=\"_blank\">Digital Is</a>"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:64
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:64"
+msgid ""
+"Prototype the <a href=\"http://digitalis.nwp.org/site-blog/dml-make-"
+"beautiful-six-word-memoir/4807\" target=\"_blank\">NWP’s “Make a "
+"Beautiful…”</a> Thimble series…OR help take their ideas for these and build "
+"them into projects: <ul>"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:66
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:66"
+msgid "Make a Beautiful Haiku"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:67
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:67"
+msgid "Make a Beautiful 100-Word Story"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:68
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:68"
+msgid "Make a Beautiful Where I’m From Poem"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li.ul.li:69
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li.ul.li:69"
+msgid "Make a Beautiful This I Believe Statement"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:72
+msgctxt "en/teachtheweb02.html div.div.article.div.ul.li:72"
+msgid "Start connecting with your peers and dive into their work!"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.h5:74
+msgid "Other tasks you might want to try"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:76
+msgid ""
+"Join our <strong>Twitter Chat</strong> on Thursday at 5pm UTC, 1pm EST, 10am "
+"PST using <a href=\"https://twitter.com/search?q=%23teachtheweb&src=typd\" "
+"target=\"_blank\">#teachtheweb</a>"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:77
+msgid ""
+"<strong>Comment</strong> on <a href=\"http://mzl.la/gpluswebmaker\" "
+"target=\"_blank\">G+</a>, Twitter or on blog comments at least 5 times this "
+"week"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:78
+msgid ""
+"Attempt to <strong>connect and expand your personal/professional learning "
+"network</strong> by sharing your social media profiles and linking to others"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:79
+msgid ""
+"<strong>Join</strong> the <a "
+"href=\"https://plus.google.com/u/0/communities/113655426574061601680?cfem=1\" "
+"target=\"_blank\">Connected Learning G+ Community</a>"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:80
+msgid ""
+"Share 1 <strong>reflection</strong> about yourself when <strong>interest "
+"driven learning</strong> was powerful for you"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:81
+msgid ""
+"Share 1 <strong>reflection</strong> about yourself when <strong>social "
+"learning</strong> was powerful for you"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:82
+msgid ""
+"Share 1 <strong>reflection</strong> about yourself <strong>when a mentor "
+"helped you</strong> on a learning path"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:83
+msgid ""
+"Share a <strong>resource</strong> that the #teachtheweb community needs to "
+"know about connected learning, that exemplifies connected learning or "
+"challenges connected learning"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:84
+msgid ""
+"<strong>Contribute</strong> to <a title=\"Planning #teachtheweb\" "
+"href=\"http://hivenyc.org/teachtheweb/planning/\" target=\"_blank\">planning "
+"Week three of #teachtheweb</a> as that is truly Connected Learning in action"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.h5:86
+msgid "Reflection"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:87
+msgid ""
+"Choose one of these questions (or make up one of your own), and write a blog "
+"post on it. Then share your post in the <a title=\"G+ Webmaker Community\" "
+"href=\"http://mzl.la/gpluswebmaker\">G+ Community</a> or using <a "
+"href=\"https://twitter.com/search?q=%23teachtheweb&src=typd\">#teachtheweb on "
+"Twitter</a>."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:89
+msgid ""
+"How do you connect, collaborate, and network with people around the world?"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:90
+msgid "What kinds of connected learning networks exist in your area?"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:91
+msgid ""
+"How do you expand your knowledge and skills through the input of others?"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:92
+msgid "How do your online connections influence your offline life?"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:93
+msgid "How is your participation in #teachtheweb connected learning?"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.h4:95
+msgid "Small Sampling of Readings and Resources"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:97
+msgid "Connected Learning Principles"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:98
+msgid "Good introductory read"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:99
+msgid "Hive NYC"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:100
+msgid "NWP"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:101
+msgid "Connected Learning Google + Community"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:102
+msgid "Connected Learning: Tying Student Passions to School Subjects"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:103
+msgid "A massive list of Connected Learning posts at the DML site"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.h4:105
+msgid "Special Thanks"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.p:106
+msgid ""
+"The following is a list of people who contributed their thoughts to the "
+"planning document for this topic. Want to help plan topics? Check out the <a "
+"title=\"Planning #teachtheweb\" "
+"href=\"http://hivenyc.org/teachtheweb/planning/\">Planning page</a> on the "
+"#teachtheweb site."
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:108
+msgid "Laura Hilliger (@epilepticrabbit)"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:109
+msgid "Chris Lawrence (@chrislarry33)"
+msgstr ""
+
+#: en/teachtheweb02.html+div.div.article.div.ul.li:110
+msgid "Paul Oh (@poh)"
+msgstr ""

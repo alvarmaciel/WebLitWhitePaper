@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-15 15:17-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: en/teachtheweb05.html+div.div.article.div.h3:12
+msgid "Week 5: Webmaking as Learning"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:13
+msgid ""
+"<strong>MAKE Project this week:</strong> Use your learning goals from last "
+"week as the basis for an activity or resource. Try the<a title=\"Hackable "
+"Activity Template\" href=\"https://thimble.webmaker.org/p/lzsz/edit\" "
+"target=\"_blank\"> Hackable Activity Template</a> or the <a title=\"Hackable "
+"Resource Template\" href=\"https://thimble.webmaker.org/p/l5l8/edit\" "
+"target=\"_blank\">Hackable Resource Template</a> so that other mentors can "
+"#teachtheweb with your material. Share it in the <a title=\"G+ Webmaker "
+"Community\" href=\"http://mzl.la/gpluswebmaker\" target=\"_blank\">G+ "
+"community</a> and on <a href=\"https://twitter.com/search?q=%"
+"23teachtheweb&src=typd\" target=\"_blank\">Twitter</a>!<span "
+"id=\"more-409\"></span>"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:14
+msgid ""
+"Last week we jumped into #teachtheweb – <a title=\"Topics and Tasks\" "
+"href=\"http://hivenyc.org/teachtheweb/topics-and-tasks/\" "
+"target=\"_blank\">Remix and Contextualization</a>. To kick it off, <a "
+"title=\"Doug Belshaw\" href=\"http://dougbelshaw.com/\" target=\"_blank\">Doug "
+"Belshaw</a> and <a title=\"Zythepsary: A Brewery of Thought\" "
+"href=\"http://zythepsary.com\" target=\"_blank\">Laura Hilliger</a> introduced "
+"Mozilla’s <a title=\"Web Literacy Standard\" "
+"href=\"https://wiki.mozilla.org/Learning/WebLiteracyStandard\" "
+"target=\"_blank\">web literacy standard</a> with a <a "
+"href=\"http://hivenyc.org/teachtheweb/live-sessions/\" target=\"_blank\">live "
+"conversation on Air Mozilla</a>. Then we, as a community, started to look at "
+"how we can bring the web into other topics and themes we’d like to teach. "
+"Last week we outlined our learning objectives and then shared them so that "
+"other people could see what we want to teach."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.h4:15
+msgid "Access, Security, Privacy, oh my!"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.div.img:16
+msgctxt "en/teachtheweb05.html div.div.article.div.div.img:16"
+msgid "Internet Users by Country World Map from the Wikimedia Commons"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.div.p:16
+msgctxt "en/teachtheweb05.html div.div.article.div.div.p:16"
+msgid "Internet Users by Country World Map from the Wikimedia Commons"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:17
+msgid ""
+"<strong>There are several specific issues that affect our ability to bring "
+"webmaking into learning spaces. </strong>For one, there are definite "
+"<strong>hardware and network issues</strong>. Some of our learning "
+"institutions lack the technical infrastructure to supply learning programs "
+"with the high speed internet that is becoming invaluable to webmaking."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.div.p:18
+msgid ""
+"Mozilla was named the Most Trusted Internet Company for Privacy in 2012, "
+"according to a study performed by the Ponemon Institute."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:19
+msgid ""
+"Others have <strong>strong filters and monitoring</strong> systems that make "
+"it hard to allow interest-driven projects. There are marginalized "
+"communities with <strong>little or no access to hardware</strong>."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:20
+msgid ""
+"As we think about how we might best <a href=\"https://twitter.com/search?q=%"
+"23teachtheweb&src=typd\">#teachtheweb</a>, we should make commitments not "
+"only to the mashing up of hard and soft skills, but also to the "
+"proliferation of access in our communities. Until there is equal access, we "
+"need to find ways to teach <a "
+"href=\"http://bitly.com/bundles/dajbelshaw/1\">web literacy skills</a> no "
+"matter the technical infrastructure we’re tied to."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:21
+msgid ""
+"We can (and should) help people understand the basics of <strong>cyber "
+"security</strong>. Even simple settings can greatly decrease the risk of an "
+"attack and protect you and your data. We can empower our learners by "
+"<strong>helping them create secure passwords, know when a website is secure "
+"and turn on firewalls and proxies.</strong>"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:22
+msgid ""
+"Finally, we need to be aware of how our online movements are documented, how "
+"our data is being used, and what we can do to protect ourselves. <a "
+"title=\"Collusion\" href=\"http://www.mozilla.org/en-US/collusion/\" "
+"target=\"_blank\">Collusion</a>, an easy-to-use tool that can help us "
+"understand tracking, explains that:"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.blockquote.p:23
+msgid ""
+"“Not all tracking is bad. Many services rely on user data to provide "
+"relevant content and enhance your online experience. But most tracking "
+"happens without users’ consent and without their knowledge. That’s not okay. "
+"It should be you who decides when, how and if you want to be tracked.” <a "
+"href=\"http://www.mozilla.org/en-US/collusion/ \" "
+"target=\"_blank\">http://www.mozilla.org/en-US/collusion/ </a>"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.h4:24
+msgid "The Role of the Mentor"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:25
+msgid ""
+"A few weeks ago, someone proposed that as digital learning rises, <a "
+"href=\"http://www.forbes.com/sites/michaelhorn/2013/05/16/what-we-can-learn-"
+"from-a-dinner-controversy-in-the-desert/\" target=\"_blank\">we won’t need "
+"teachers</a> anymore (this isn’t the first time someone has said this). This "
+"is completely ridiculous of course, but brings up some interesting thoughts "
+"on our roles as educators."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:26
+msgid ""
+"Just as the influx of digital technologies has begun to redefine what it "
+"means to be educated, so too has this influx redefined what it means to be "
+"an educator. <strong>Today, learning happens everywhere, and there are "
+"teachers everywhere.</strong> Some of them identify as “educators” or "
+"“teachers”, while others identify as “technologists” or “instructors”. Some "
+"of them have regular classes while others are known around the office as "
+"someone who “can fix your computer”. <strong>What all of these people have "
+"in common is that they are mentoring learners.</strong> They might be doing "
+"it in different ways – some of them mentor professionally, others aren’t "
+"even aware of their impact – but technology is pervasive enough that those "
+"with the applicable skills should be trying to pull others along*."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.div.p:27
+msgid "Steve Kirkendall’s #teachtheweb Introduction"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:28
+msgid ""
+"As we advance our practice and try to find ways to navigate the waters "
+"around technology or around pedagogy, we need to turn our focus inward. "
+"<strong>We need to remember those learning experiences that most touched "
+"us.</strong> Whether the digital space was involved isn’t relevant, it’s how "
+"we interacted with people around us. <strong>What kind of freedoms did we "
+"have to play and make mistakes and inspire our peers?</strong> How were we "
+"given constraints to guide us towards learning something specific?"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:29
+msgid ""
+"In Webmaking, we need to intermingle participation, collaboration and other "
+"“soft” skills with technical “hard” skills whenever we can. As we saw last "
+"week, <strong>web literacy is not just about coding, and webmaking is not "
+"just about digital storytelling.</strong> Through interest-driven “make” "
+"projects that offer the learner a safe space to explore, we can motivate and "
+"inspire our learners to be responsible citizens in both the digital and "
+"physical world."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.h4:30
+msgid "Make Projects this Week"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:31
+msgid ""
+"Last week in #teachtheweb, we worked independently to outline the learning "
+"objectives we have for our own individual audiences. This week, we’ll create "
+"guides other educators and technologists can follow and remix."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:32
+msgid ""
+"<strong>MAKE Project this week:</strong> Use your learning goals from last "
+"week as the basis for an activity or resource. Try the<a title=\"Hackable "
+"Activity Template\" href=\"https://thimble.webmaker.org/p/lzsz/edit\" "
+"target=\"_blank\"> Hackable Activity Template</a> or the <a title=\"Hackable "
+"Resource Template\" href=\"https://thimble.webmaker.org/p/l5l8/edit\" "
+"target=\"_blank\">Hackable Resource Template</a> so that other mentors can "
+"#teachtheweb with your material. Share it in the <a title=\"G+ Webmaker "
+"Community\" href=\"http://mzl.la/gpluswebmaker\" target=\"_blank\">G+ "
+"community</a> and on <a href=\"https://twitter.com/search?q=%"
+"23teachtheweb&src=typd\" target=\"_blank\">Twitter</a>!"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:33
+msgid "Other suggested makes:"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:35
+msgid ""
+"Make a <a href=\"http://www.mentormob.com/people/createdPlaylists/mozilla-"
+"webmaker-19554\">MentorMob</a> playlist of your favorite in-person activities "
+"and share the link on <a href=\"http://mzl.la/gpluswebmaker\">G+</a> or <a "
+"href=\"https://twitter.com/search?q=%23teachtheweb&src=typd\">Twitter</a>."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:36
+msgid ""
+"Make a <a href=\"http://www.mentormob.com/people/createdPlaylists/mozilla-"
+"webmaker-19554\">MentorMob</a> playlist of your favorite online activities "
+"and share the link on <a href=\"http://mzl.la/gpluswebmaker\">G+</a> or <a "
+"href=\"https://twitter.com/search?q=%23teachtheweb&src=typd\">Twitter</a>."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:37
+msgid ""
+"Make a <a href=\"http://www.mentormob.com/people/createdPlaylists/mozilla-"
+"webmaker-19554\">MentorMob</a> playlist of a lesson centered on Webmaking and "
+"share the link on <a href=\"http://mzl.la/gpluswebmaker\">G+</a> or <a "
+"href=\"https://twitter.com/search?q=%23teachtheweb&src=typd\">Twitter</a>."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:38
+msgid ""
+"Make a <a href=\"http://www.mentormob.com/people/createdPlaylists/mozilla-"
+"webmaker-19554\">MentorMob</a> playlist for learning the basics of "
+"accessibility, security, privacy or more advanced variants and share the "
+"link on <a href=\"http://mzl.la/gpluswebmaker\">G+</a> or <a "
+"href=\"https://twitter.com/search?q=%23teachtheweb&src=typd\">Twitter</a>."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:39
+msgid ""
+"Make a list of informal and formal <strong>webmaker learning "
+"examples</strong> and share."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:40
+msgid ""
+"Make a <strong>remix</strong> of an activity <strong>and unpack the learning "
+"objectives</strong> into the <a "
+"href=\"https://thimble.webmaker.org/p/lj1k/edit\">Hackable Learning Goals</a> "
+"template."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:41
+msgid ""
+"Record a hangout about webmaking as learning with other #teachtheweb "
+"participants or some colleagues. Share it or make something more from it."
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:42
+msgid ""
+"Make a total remix and hack a webpage that teaches one thing (e.g. coding) "
+"into a webpage that teaches something completely different (e.g. cooking)"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:43
+msgid ""
+"Use <a href=\"http://htmlpad.org\">HTMLPad</a>, <a "
+"href=\"http://jsfiddle.net/\">JS Fiddle</a> or <a "
+"href=\"http://nudgepad.com/\">NudgePad</a> to collaboratively plan and code an "
+"activity for webmaking. Share your page!"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.h4:45
+msgid "Reflection"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:47
+msgid ""
+"How can we mix online and offline activities to get learners leveling up in "
+"the entire breadth of web literacy and open culture?"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:48
+msgid "How can we teach web skills in offline or slow network environments?"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:49
+msgid ""
+"What are best practices in making, coding and webmaking for teaching and "
+"learning?"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:50
+msgid ""
+"What are some common, helpful progressions or learning paths people take "
+"through webmaking?"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:51
+msgid ""
+"What are best practices for mentorship in online teaching communities? Which "
+"organizations or platforms get these right?"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:52
+msgid "What makes a space good for learning?"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:53
+msgid "How can remix invite learning?"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:54
+msgid "How do we bring collaborative digital making into a learning space?"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.h4:56
+msgid "Readings and Resources"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:58
+msgid ""
+"<a href=\"http://youtu.be/8PG8fbUgf-Y\">Basic intro to Cyber Security "
+"</a>(also a commercial, but you can just watch the first 45 seconds)"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:59
+msgid "How to Make Secure Passwords"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:60
+msgid "Mozilla Security Center"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:61
+msgid ""
+"Totally Awesome, Interactive <a href=\"http://t.co/mOUoUCeA3E\">Do not Track "
+"Trailer</a>"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:62
+msgid "Inforgraphic on Broadband Access in the US"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:63
+msgid "It’s Time to Play: Games, Gamification, and Active Learning"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:64
+msgid "(Un)Mapping the Terrain of Digital Pedagogy"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:65
+msgid "Badge Pathways: part 1, the paraquel"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:66
+msgid "Badge Pathways: part 2, the quel"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:67
+msgid "Webmaker Train the Trainer"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:68
+msgid ""
+"The Remixing Dilemma: The Trade-off Between Generativity and Originality"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:69
+msgid "HOMAGO Guidebook"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:70
+msgid "Ben Chun IGNITE Talk from DML2012: Beyond Educational Technology"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:71
+msgid "Tessa Joseph-Nicholas IGNITE Talk"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:72
+msgid "Rafi Santo IGNITE Talk"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:73
+msgid "“Top 10 List” of Good Computing Practices"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.h4:75
+msgid "SPECIAL THANKS"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.p:76
+msgid ""
+"T<em>he following is a list of people who contributed their thoughts to the "
+"planning document for this topic. Want to help plan topics? Check out the <a "
+"href=\"http://hivenyc.org/teachtheweb/planning/\">Planning page on the "
+"#teachtheweb site.</a></em>"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:78
+msgid "Laura Hilliger (@epilepticrabbit)"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li:79
+msgid "Chad Sansing (@chadsansing)"
+msgstr ""
+
+#: en/teachtheweb05.html+div.div.article.div.ul.li.img:80
+msgid ""
+"A few others who, unfortunately, didn’t add their names to the planning "
+"document <img scale=\"0\" src=\"http://hivenyc.org/teachtheweb/wp-"
+"includes/images/smilies/icon_smile.gif\" alt=\":)\" class=\"wp-smiley\">"
+msgstr ""
