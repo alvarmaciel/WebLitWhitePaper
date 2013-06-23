@@ -10,7 +10,7 @@ X-Ray Googles provee una mirada interna de las páginas webs que permite a los e
 [https://thimble.webmaker.org/en-US/ <b>Thimble</b>]<br> A través de la creación de páginas web, Thimble le da a los estudiantes la oprotunidad de practicar y aplicar sus habilidades en relación al leguaje de la web, para hacer la web.<br>
 
 [https://popcorn.webmaker.org <b>Popcorn Maker</b>]<br> 
-Students become content creators by enhancing, remixing and sharing web videos.<br>
+Los estudiantes se convierten en creadores mejorando, remixando y compartiendo videos en la web.<br>
 
 ==Hacktivity Kits for Mozilla Webmaker Tools==
 Each Mozilla-designed Hactivity Kit includes learning goals and outcomes, lesson plans, activities and projects, and assessment. The modular lesson plans and activities allow educators to use the kit in its entirety or customize it for their students.<br>
