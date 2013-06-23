@@ -12,25 +12,25 @@ X-Ray Googles provee una mirada interna de las páginas webs que permite a los e
 [https://popcorn.webmaker.org <b>Popcorn Maker</b>]<br> 
 Los estudiantes se convierten en creadores mejorando, remixando y compartiendo videos en la web.<br>
 
-==Hacktivity Kits for Mozilla Webmaker Tools==
-Each Mozilla-designed Hactivity Kit includes learning goals and outcomes, lesson plans, activities and projects, and assessment. The modular lesson plans and activities allow educators to use the kit in its entirety or customize it for their students.<br>
+==Hacktivity Kits para usar las herramientas de Webmaker==
+Cada Hactivity kit diseñado por Mozilla incluye objetivos y resultados de los aprendizajes, planificaciones cada lección, actividades, proyectos y evaluaciones. Las planificaciones modulares y las actividades premiten a los educadores usar los kits completos o customizar los kits de acurdo a sus estudiantes..<br>
 
-If you're new to teaching the web, this is a great place to start.
-[http://hivenyc.org/kits.html <b>Take me to the HACTIVITY KITS!</b>]
+Si eres nuevo en esto de enseñar la web, este es un buen lugar para empezar.
+[http://hivenyc.org/kits.html <b>¡Ir a los HACTIVITY KITS!</b>]
 
-===Contributed Hacktivity Kits===
+===Hacktivity Kits aportados por la comunidad ===
 [https://thimble.webmaker.org/p/f8c8/ Open Data Day - Memories of our City]
 
-====Contributed Ice Breaker====
+====Actividades para romper el hielo====
 [https://docs.google.com/document/d/1onX-qvX2KtsVVCVB6vhpS8r6bQqmvfAECvhOKnw1Ees/edit?usp=sharing Webmaker Bingo]
 
-===Hacktivity Kits Remixed===
+===Hacktivity Kits Remixados===
 
-:*[https://docs.google.com/file/d/0B0-nCNqp_Aheb0ZrSHJlaU5qMVk/edit?usp=sharing Remixing the Web: TASCasaurus After-School Curriculum] – A remix of the Hacktivity Kit by The After-School Corporation (TASC) and Hive NYC Learning Network. 
+:*[https://docs.google.com/file/d/0B0-nCNqp_Aheb0ZrSHJlaU5qMVk/edit?usp=sharing Remixing the Web: TASCasaurus After-School Curriculum] – Un remix de Hacktivity Kits hechos por After-School Corporation (TASC) y Hive NYC Learning Network. 
 
-<center>''Have you used the Hactivity Kits to teach the web? Did you remix the activities to better meet your needs? Please post them here!''</center>
+<center>'' ¿Usaron los Hactivity Kits para enseñar la web? ¿Remixaron las actividades para ajustarlas mejor a sus necesidades? ¡Por favor, posteen acá sus experiencias!''</center>
 
-<br>The Hacktivity Kits for Webmaking are in prototype form. We would like to know how you work with them. Please let us know on the Discussion page! Or send your feedback to [https://lists.mozilla.org/listinfo/webmaker the Webmaker List!]
+<br>Los Hacktivity Kits para Webmaking son prototipos. Nos gustaría saber como trabajan con ellos. ¡Por favor escriban sus opiniones en la página de discusión! O envien sus comentarios a la [https://lists.mozilla.org/listinfo/webmaker ¡lista de Webmaker!]
 
 ==Creating a Web Literate Planet==
 Here are some primers to help you understand and create context for teaching the web.
